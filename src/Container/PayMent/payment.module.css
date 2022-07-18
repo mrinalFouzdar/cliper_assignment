@@ -1,0 +1,23 @@
+#payment{
+    padding: 15px;
+    padding-bottom: 30px;
+    margin: 0 12px 25px;
+    box-shadow: 1px 1px 6px 1px #cfcfcf;
+    font-size: 1.3vw;
+    height: 60%;
+}
+
+#payment p span{
+    float: right;
+}
+#payment >button{
+    background-color: #f43397;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 1.3vw;
+    cursor: pointer;
+}

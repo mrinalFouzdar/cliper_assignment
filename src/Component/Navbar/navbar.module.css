@@ -1,0 +1,58 @@
+.navbar {
+    width: 100%;
+    color: white;
+    background-color: black;
+    position: fixed;
+    top: 0%;
+    z-index: 999;
+    background: linear-gradient(to top, transparent 0%, rgb(0,0,0,0.3)50%);
+}
+.scrolled{
+    background-color:black;
+}
+.container{
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left,.right{
+    display: flex;
+    align-items: center;
+    gap:3vw;
+}
+.link{
+    position: relative;
+}
+.cart_div{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    right:-10px;
+    bottom:  28px;
+    border-radius: 50%;
+    background: red;
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
+}
+
+.imgLogo{
+    height: 10vh;
+    cursor: pointer;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 0.5vw;
+}
+.text{
+    font-size: 1.2vw;
+    font-weight: 900;
+
+}
+.logo{
+    font-size: 2vw;
+    color:white;
+    cursor: pointer;
+}

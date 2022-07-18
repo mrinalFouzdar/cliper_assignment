@@ -1,0 +1,150 @@
+{
+    "product":{
+        "vegetable":[
+            {
+                "name":"Strawberries",
+                "price":100,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://aliceswonderlandnursery.com/wp-content/uploads/2019/06/How-to-grow-hydroponic-strawberries-1.jpg",
+                "id":1
+            },
+            {
+                "name":"General Grow Nutrients",
+                "price":155,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/general-grow-nutrients.jpg",
+                "id":2
+            },
+            {
+                "name":"Green Zucchini Hydroponically Grown",
+                "price":155,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYw0ZIszEo1-01ppW70GqeCLrnXpbgPZRnvRnnN0Vvj_QYvtPq60t2Flj4YS5DRcqzxmASimxAv4REl_gvZuCwUJj405FCF_A62nmd2QIwAz0ZE57qXtfRfGk&usqp=CAE",
+                "id":3
+            },
+            {
+                "name":"Tomato Nutrients",
+                "price":160,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/cherry-tomato_grande.jpg",
+                "id":4
+            },
+            {
+                "name":"Capsicum",
+                "price":120,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/General-bloom-nutrients.jpg",
+                "id":5
+            },
+            {
+                "name":"Cauliflower",
+                "price":50,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://agrotonomy.com/wp-content/uploads/2021/04/purple-cauliflower-tower-garden.jpg",
+                "id":6
+            },
+            {
+                "name":"Cauliflower",
+                "price":50,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://image.shutterstock.com/image-photo/vegetable-cabbage-hydroponics-farm-600w-674397028.jpg",
+                "id":7
+            },
+            {
+                "name":" Baby Spinach (Hydroponic) 250gms",
+                "price":180,
+                "quality": "A Grade",
+                "Organic": "Yes",
+                "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSXYe90j1_Mz2Ya2wPb2SlDA6UvHetiEEZDAZFhagzfH4Vzsj8HO66D3V2TXsYcbJzuG4dLlRENZLQc51TlIwdPDzIIkFLIzJLxzoT6iM&usqp=CAE",
+                "id":8
+            }
+        ],
+
+        "Hydroponics Systems":[
+            {
+                "name":"Grow System - 18 Plants System",
+                "price":8500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/18-plants-system.jpeg",
+                "id":9
+            },
+            {
+                "name":"Grow System - 52 Plants Half Pyramid System",
+                "price":8500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/half-pyramid-52-plants-system.jpg",
+                "id":10
+            },
+            {
+                "name":"Grow System - 190 Plants NFT System",
+                "price":8500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/hydroponics-190plants-pyramid-system.jpg",
+                "id":11
+            },
+            {
+                "name":"Grow System - 52 Plants Indoor NFT System",
+                "price":14500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/indoor-system.png",
+                "id":12
+            },
+            {
+                "name":"10 Plants Duthc Bucket System",
+                "price":7500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/Dutch-Bucket-System-5-Plants.jpeg",
+                "id":13
+            }
+        ],
+        "Aquaponics Systems":[
+            {
+                "name":"Recirculation Aquaponics Systems",
+                "price":675000,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/raps.jpg",
+                "id":"14"
+            },
+            {
+                "name":"Decoupled Aquaponics Systems",
+                "price":72000,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/DAPS-DWC+Dutch.jpg",
+                "id":"15"
+            },
+            {
+                "name":"Decoupled Aquaponics Systems",
+                "price":85000,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/aquaponics-system.jpg",
+                "id":"16"
+            },
+            {
+                "name":"Aquaponics Fish Tanks - 1000L",
+                "price":9500,
+                "img":"https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/systems/aquaponics_fish_tank.png",
+                "id":"17"
+            },
+            {
+                "name":"Aquaponics System",
+                "price":19500,
+                "img":"https://www.gothicarchgreenhouses.com/images/aquaponics_system.jpg",
+                "id":"18"
+            },
+            {
+                "name":"Aquaponics 6-Bed Self Sustaining Garden System",
+                "price":15000,
+                "img":"https://cdn.shopify.com/s/files/1/0273/0118/3586/products/2-1-2_e4ae13e3-b489-49de-b403-5d690f3e916c_1024x1024@2x.jpg?v=1612904693",
+                "id":"19"
+            }
+        ],
+        "Buid Your Systems":[
+            {
+
+            }
+        ],
+        "Images":["https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/slider/hydroponics-systems.jpg",
+                  "https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/slider/Hydroponics-Aquaponics-Products.jpg",
+                  "https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/slider/aquaponics-systems.jpg",
+                  "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/f/i/fish_tanks.png"]
+    }
+}
